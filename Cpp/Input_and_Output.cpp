@@ -1,4 +1,4 @@
-'''Objective
+/*Objective
 In this challenge, we practice reading input from stdin and printing output to stdout.
 
 In C++, you can read a single whitespace-separated token of input using cin, and print output to stdout using cout. For example, let's say we declare the following variables:
@@ -35,9 +35,9 @@ Sample Output
 10
 Explanation
 
-The sum of the three numbers is 1+2+7 = 10.'''
+The sum of the three numbers is 1+2+7 = 10.*/
 
-#CODE:
+//CODE:
 
 #include <cmath>
 #include <cstdio>
